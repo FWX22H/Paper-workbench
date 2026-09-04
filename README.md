@@ -101,5 +101,7 @@ PDF、笔记索引和设置默认保存在浏览器本地；也可以授权一�
 ---
 
 # 如果各位喜欢不妨给作者点杯奶茶，您的支持就是作者继续优化的动力
-![Uploading 233bb30f5ff4a2e07adf543adc14dcf3.jpg…]()
+
+<img width="1325" height="1806" alt="233bb30f5ff4a2e07adf543adc14dcf3" src="https://github.com/user-attachments/assets/327b7c25-160b-4d95-a4f4-c1dc8802cb51" />
+
 
